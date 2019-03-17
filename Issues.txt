@@ -1,0 +1,3 @@
+Fire wall error|open|Maria Eliza| 
+Index out of range|open|Ioana Mihaela| 
+Run-time error|closed|Charles Smith|Willson Mill
